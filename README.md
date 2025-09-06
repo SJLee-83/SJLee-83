@@ -6,9 +6,6 @@
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-<!-- 
-자신이 다룰 수 있는 기술들을 아이콘으로 보여주면 훨씬 보기 좋습니다.
-Shields.io (https://shields.io/) 사이트를 활용하여 아래와 같은 뱃지를 쉽게 만들 수 있습니다.
 -->
 <p align="center">
   <strong>Backend</strong><br>
@@ -19,6 +16,7 @@ Shields.io (https://shields.io/) 사이트를 활용하여 아래와 같은 뱃�
   <strong>Frontend</strong><br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -40,6 +38,7 @@ Shields.io (https://shields.io/) 사이트를 활용하여 아래와 같은 뱃�
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
 
 <br>
 
