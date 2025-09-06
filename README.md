@@ -70,16 +70,10 @@
 
 <br>
 
-<!-- 
-이런 형식으로 보여주고 싶은 프로젝트들을 2~3개 정도 추가하시면 됩니다.
-가장 자신 있는 프로젝트를 맨 위에 배치하세요.
--->
 
 <br>
 
 ## 📫 연락처 (Contact)
 
-<!-- 자신의 연락처나 SNS 링크를 넣어주세요. -->
-- **Email:** your-email@example.com
-- **Blog:** https://your-blog.com
-- **LinkedIn:** https://linkedin.com/in/your-profile
+- **Email:** greatsjlee@gmail.com
+
