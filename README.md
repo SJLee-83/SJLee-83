@@ -73,4 +73,5 @@
 ## 📫 연락처 (Contact)
 
 - **Email:** greatsjlee@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/seung-jae-lee-670baa382/
 
