@@ -62,7 +62,7 @@
 
 | 구분 | 링크 |
 | :--- | :--- |
-| **📝 프로젝트 상세 회고 (Notion)** | *(Notion 페이지 링크)* |
+| **📝 프로젝트 상세 회고 (Notion)** | *(https://www.notion.so/AI-SkinView-239788271dd48086bfb6c5c3c777a138)* |
 | **✨ 개인 포트폴리오용 (리팩토링 버전)** |*(https://github.com/SJLee-83/ai-skin-chatbot)* |
 | **👥 팀 프로젝트 원본 코드** | *(https://github.com/SJLee-83/skinview-team-project)* |
 
