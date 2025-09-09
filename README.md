@@ -77,7 +77,7 @@
 
 | 구분 | 링크 |
 | :--- | :--- |
-| **📄 프로젝트 보고서 (PDF)** | *(assets/C-Care-report.pdf)* |
+| **📄 프로젝트 보고서 (PDF)** | *(https://github.com/SJLee-83/C-Care/blob/main/assets/C-Care-report.pdf)* |
 | **💻 GitHub 저장소** | *(https://github.com/SJLee-83/C-Care)* |
 
 <br>
