@@ -108,7 +108,7 @@
 
 | 구분 | 링크 |
 | :--- | :--- |
-| **💻 GitHub 저장소** | *(https://github.com/SJLee-83/what-to-eat-app)* |
+| **💻 GitHub 저장소** | *(https://github.com/SJLee-83/what-to-eat)* |
 
 <br>
 
