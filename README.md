@@ -122,6 +122,7 @@
 | **행정복지센터 민원 시스템 최적화 제안** | [📄 보고서](https://github.com/SJLee-83/SJLee-83/raw/main/assets/죽전1동%20행정복지센터%20민원실%20대기시간%20감소%20및%20최적의%20민원%20시스템%20제안_보고서.pdf) |
 | **MFC 구축을 위한 입지 요건 분석** | [📊 발표자료](https://github.com/SJLee-83/SJLee-83/blob/main/assets/GS%20%EC%B9%BC%ED%85%8D%EC%8A%A4%20MFC%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%2C%20MFC(Micro%20Fulfillment%20Center)%20%EA%B5%AC%EC%B6%95%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9E%85%EC%A7%80%20%EC%9A%94%EA%B1%B4%20%EB%B6%84%EC%84%9D.pdf) |
 | **살균기 데이터를 활용한 식품 살균 공정에서의 품질 예측** | [📊 발표자료](https://github.com/SJLee-83/SJLee-83/blob/main/assets/%EC%82%B4%EA%B7%A0%EA%B8%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%8B%9D%ED%92%88%20%EC%82%B4%EA%B7%A0%20%EA%B3%B5%EC%A0%95%EC%97%90%EC%84%9C%EC%9D%98%20%ED%92%88%EC%A7%88%20%EC%98%88%EC%B8%A1.pdf) |
+| **골목상권 되살리기_FIELDCAMP_Project** | [📊 발표자료](https://github.com/SJLee-83/SJLee-83/blob/main/assets/%EA%B3%A8%EB%AA%A9%EC%83%81%EA%B6%8C%20%EB%90%98%EC%82%B4%EB%A6%AC%EA%B8%B0_FIELDCAMP_Project.pdf) |
 
 <br>
 
