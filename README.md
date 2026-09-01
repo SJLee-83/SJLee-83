@@ -87,7 +87,6 @@
 | :--- | :--- |
 | **개인 포트폴리오 (리팩터링 버전)** | https://github.com/SJLee-83/ai-skin-chatbot |
 | **팀 프로젝트 원본** | https://github.com/SJLee-83/skinview-team-project |
-| **프로젝트 회고 (Notion)** | https://www.notion.so/AI-SkinView-239788271dd48086bfb6c5c3c777a138 |
 
 <br>
 
