@@ -56,7 +56,7 @@
 
 > 유지보수 매뉴얼 기반 RAG와 LangGraph 조건부 라우팅으로, 설비 알람 코드에 대한 **안전 주의사항을 먼저 안내하는 한국어 조치 가이드를 출처와 함께** 생성합니다.
 
-- **역할:** DACON 스마트 제조 AI 해커톤 본선 진출작(팀)의 **기획·설계를 리드**했고, 그 개념을 계승해 **코드는 처음부터 단독으로 재구현**했습니다.
+- **역할:** 스마트 제조 AI Agent 해커톤 2025(DACON) 본선 진출작(팀)의 **기획·MVP 설계를 리드**했고(구현은 팀원 주도), 그 개념을 계승해 기술 스택과 데이터를 검증한 뒤 **코드는 처음부터 단독으로 재구현**했습니다.
 - **특징:**
   - **검증 우선** — 기획 가정을 PoC로 먼저 검증하고 통과한 것만 구현합니다. 해커톤에서 핵심 차별점으로 내세웠던 "Cross-Reference RAG"는 매뉴얼 261페이지를 실측한 결과 `See Section` 참조가 **3회뿐**임을 확인하고 **기각**한 뒤, 마커 기반 청킹 + 메타데이터 필터링으로 재정의했습니다([ADR-002](https://github.com/SJLee-83/smart-mfg-ai-agent/blob/main/docs/decisions/ADR-002-cross-reference-rag-redefinition.md)).
   - 라우팅은 **규칙 기반**이고 LLM은 답변 노드 한 곳에서만 호출합니다. 검색 결과가 0건이면 LLM을 호출하지 않습니다. 필터 검색이 0건이면 필터를 풀고 **정확히 1회만** 재검색합니다.
@@ -65,7 +65,8 @@
 
 | 구분 | 링크 |
 | :--- | :--- |
-| **💻 GitHub** | https://github.com/SJLee-83/smart-mfg-ai-agent |
+| **💻 GitHub (재개발, 단독)** | https://github.com/SJLee-83/smart-mfg-ai-agent |
+| **💻 GitHub (해커톤 원본, 팀원 계정)** | https://github.com/YuYeongChan/factory_doctor-fanuc_agent |
 
 <br>
 
